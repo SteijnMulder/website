@@ -1,0 +1,12 @@
+body {
+ background-image: url("https://reisreport.nl/wp-content/uploads/2019/07/lang-weekend-ijsland-route-1920x1080.jpg");
+ width: 100%;
+ height: 100%;
+ margin-top: 5px;
+}
+div {
+    background-color: rgb(179, 178, 178);
+    width: 100%;
+    margin-left: 40%;
+    margin-right: 40%;
+}
