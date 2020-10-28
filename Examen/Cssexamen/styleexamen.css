@@ -28,9 +28,23 @@ ul {
 
 li {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
-    display: inline;
+    font-size: 17px;    
+}
+
+.menu li {
     float: left;
+    display: inline;
+}
+
+li a {
+
+  text-align: center;
+  padding: 4px 5px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #2F97C1;
 }
 
 a {
@@ -47,16 +61,15 @@ a {
   width: 50%;
 }
 
-li a {
 
-  text-align: center;
-  padding: 4px 5px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #2F97C1;
-}
 
 .midden {
     text-align: center;}
+
+P {
+    font-family: Arial, Helvetica, sans-serif;  
+}
+
+#lol {
+ background-color: #2F97C1;
+}
